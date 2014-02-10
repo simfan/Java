@@ -1,0 +1,531 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dt">
+            <html>
+            <head>
+            <title>Image Gallery -  books2 - Powered by PhotoPost</title>
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+            <!-- no cache headers -->
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+            <meta http-equiv="Pragma" content="no-cache" />
+            <meta http-equiv="Expires" content="-1" />
+            <meta http-equiv="Cache-Control" content="no-cache" />
+            <!-- end no cache headers -->
+
+            
+            <script type="text/javascript">
+        var PopUpHelpX = (screen.width/2)-150;
+        var PopUpHelpY = (screen.height/2)-200;
+        var pos = "left="+PopUpHelpX+",top="+PopUpHelpY;
+        function PopUpHelp(url){
+        PopUpHelpWindow = window.open("http://www.gif.com/gif.com/help/"+url,"Smilies","scrollbars=yes,width=300,height=400,"+pos);
+        }
+        </script>
+
+            
+            </head>
+            <body>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_url = 'http://mjxads.internet.com/RealMedia/ads/';
+OAS_sitepage = 'arttoday/graphics/www.gif.com';
+OAS_listpos = '120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9';
+OAS_query = '';
+OAS_target = '_top';
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+var_a=('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage );
+var_b=(var_a + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' );
+var_c=(var_b+ OAS_query + '" TARGET=' + OAS_target + '>');
+document.write(var_c);
+var_aa=('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage ); 
+var_bb=( var_aa + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?');
+var_cc=( var_bb + OAS_query + '" BORDER=0></A>');
+document.write(var_cc);
+}
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE=JavaScript1.1>
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 )
+OAS_version = 10;
+if (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+OAS_version = 10;
+if (OAS_version >= 11) {
+var_aaa=('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url); 
+var_bbb=(var_aaa + 'adstream_mjx.ads/' + OAS_sitepage + '/1'); 
+var_ccc=(var_bbb + OAS_rns + '@' + OAS_listpos + '?' + OAS_query );
+var_ddd=(var_ccc + '"><\/SCRIPT>');
+document.write(var_ddd);
+}
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11)
+OAS_RICH(pos);
+else
+OAS_NORMAL(pos);
+}
+//-->
+</SCRIPT>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#000080" alink="#800000" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0">
+<table width="100%" height="23" bgcolor="#EAF4DE" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" class="regular">
+      <a href="http://www.jupiterimages.com" title="Jupiterimages - The Premier destination for creative professionals"> Jupiterimages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://Photos.com" title="Photos.com -- royalty free stock photos">Photos.com</a>&nbsp;&nbsp;|&nbsp;&nbsp
+<a href="http://www.Comstock.com/" title="Comstock Images-- Stock Photography">Comstock Images</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://royaltyfreezone.com/" title="Thinkstock -- Royalty Free Zone">Thinkstock</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://Clipart.com/" title="Clipart.com -- Clipart. Photos. Fonts">Clipart.com</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+<a href="http://www.ablestock.com/" title="AbleStock.com-- Royalty free stock photography">AbleStock.com</a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<style>
+.regular {
+	font-family : Verdana,Georgia;
+	font-size : 12px;
+	color : #000000;
+}
+.small {
+	font-family : Verdana,Georgia;
+	font-size : 10px;
+	color : #000000;
+}
+</style>
+
+<!------ OAS AD '468x60-1' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('468x60-1');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!468x60-1" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!468x60-1" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD '468x60-1' end ------>
+
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="166" height="42" rowspan="2" bgcolor="#82CA9C"><img src="http://static.graphics.com/gif.com/title.gif" width="166" height="42" alt="Gif World" border="0"></td>
+<td width="2" height="19" bgcolor="#82CA9C"><img src="http://static.graphics.com/gif.com/top_left.gif" width="2" height="19" border="0"></td>
+<td height="19" background="http://static.graphics.com/gif.com/top_bg.gif" bgcolor="#82CA9C" bgcolor="#82CA9C">&nbsp;</td>
+<td width="2" height="19" bgcolor="#82CA9C"><img src="http://static.graphics.com/gif.com/top_right.gif" width="2" height="19" border="0"></td>
+</tr>
+<tr>
+<td width="2" height="19" bgcolor="#EAF4DE"><img src="http://static.graphics.com/gif.com/menu_left.gif" width="2" height="23" border="0"></td>
+<td height="23" background="http://static.graphics.com/gif.com/menu_bg.gif" nowrap align="center" bgcolor="#EAF4DE"><span class="small">
+
+<a href="/index.php" style="text-decoration: none">Home</a>&nbsp;:&nbsp;<a href="/gif.com/showgallery.php?cat=147&thumb=1" style="text-decoration: none">Clipart</a>&nbsp;:&nbsp;<a href="/gif.com/showgallery.php?cat=148&thumb=1" style="text-decoration: none">Animations</a>&nbsp;:&nbsp;<a href="http://www.barrysfreephotos.com/" style="text-decoration: none">Photos</a>&nbsp;:&nbsp;<a href="http://www.graphics.com/modules.php?name=Forums" style="text-decoration: none">Forum</a>&nbsp;:&nbsp;<a href="http://www.clip-art.com/rankem.html?action=in&id=gifworld" style="text-decoration: none">Clip-Art.com</a>&nbsp;:&nbsp;<a href="http://www.clipart.com/slide/010_01" style="text-decoration: none" rel="nofollow">Clipart.com</a>&nbsp;:&nbsp;<A HREF="http://www.animationfactory.com" TARGET="_top" style="text-decoration: none">Animation Factory</A>&nbsp;:&nbsp;<a href="mailto:contact@gif.com" style="text-decoration: none">Contact</a>
+
+</span></td>
+<td width="2" height="23" bgcolor="#EAF4DE"><img src="http://static.graphics.com/gif.com/menu_right.gif" width="2" height="23" border="0"></td>
+</tr>
+</table>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="5" background="http://static.graphics.com/gif.com/left.gif"><img src="http://static.graphics.com/clear.gif" width="5" height="1" border="0"></td>
+<td bgcolor="#FFFFFF">
+
+<center>
+<br>
+<table cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="left">
+<table cellspacing=0 cellpadding=4 border=0>
+  <tr>
+    <td bgcolor="#3F75B5">
+      <font class="regular">
+      <b style="color:#FFFFFF;">Jupiterimages Commerce Partners</b>
+      </font>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="350" style="border-style:solid; border-width:1px; border-color:#3F75B5;">
+    
+<table border="0">
+  <tr>
+    <td valign="top" align="left" nowrap>
+
+<font class="small">
+<a href="http://www.graphics.com/comm_partners.html">Join Partner Program</a>
+
+<br>
+<!------ OAS AD 'cp1' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp1');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp1" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp1" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp1' end ------>
+
+<br>
+<!------ OAS AD 'cp2' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp2');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp2" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp2" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp2' end ------>
+
+<br>
+<!------ OAS AD 'cp3' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp3');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp3" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp3" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp3' end ------>
+
+<br>
+<!------ OAS AD 'cp4' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp4');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp4" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp4" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp4' end ------>
+
+<br>
+<!------ OAS AD 'cp5' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp5');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp5" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp5" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp5' end ------>
+
+<br>
+<!------ OAS AD 'cp6' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp6');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp6" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp6" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp6' end ------>
+
+<br>
+<!------ OAS AD 'cp7' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp7');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp7" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp7" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp7' end ------>
+
+</font>
+
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td valign="top" align="left" nowrap>
+
+<font class="small">
+
+<!------ OAS AD 'cp8' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp8');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp8" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp8" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp8' end ------>
+
+<br>
+<!------ OAS AD 'cp9' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp9');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp9" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp9" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp9' end ------> 
+
+<br>
+<!------ OAS AD 'cp10' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp10');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp10" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp10" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp10' end ------>
+
+<br>
+<!------ OAS AD 'cp11' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp11');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp11" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp11" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp11' end ------>
+
+<br>
+<!------ OAS AD 'cp12' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp12');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp12" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp12" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp12' end ------>
+
+<br>
+<!------ OAS AD 'cp13' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp13');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp13" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp13" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp13' end ------>
+
+<br>
+<!------ OAS AD 'cp14' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('cp14');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp14" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!cp14" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD 'cp14' end ------>
+
+</font>
+
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align="left">
+<span class='regular'><strong><a href='http://www.clipart.com/slide/010_04' rel='nofollow'>Visit Clipart.com for really great clipart</a>,
+<a href='http://www.animationfactory.com'>Animation Factory for cool animations</a> and
+<a href='http://www.photos.com/slide/010_04' rel='nofollow'>Photos.com for quality stock photos!</a></strong></span></td>
+</tr>
+</table>
+</center><br /><table cellpadding="10" cellspacing="0" border="0" width="100%" align="center"><tr>    <td valign="middle" width="50%"><font face="MS Sans Serif,Geneva,Arial" size="2"></font></td>
+        <td width="50%" align="right" valign="middle"><font face="MS Sans Serif,Geneva,Arial" size="2"><a href="http://www.gif.com/gif.com/index.php">Home</a> </font>&nbsp;</td></tr></table>
+        <table cellpadding="2" cellspacing="0" border="0" bgcolor="#660000"  width="100%" align="center">
+        <tr><td>
+        <table cellpadding="0" cellspacing="1" border="0"  width="100%" bgcolor="#BCBDBD">
+        <tr><td>
+        <table cellpadding="0" cellspacing="0" border="0"  width="98%" align="center"><tr>
+        <td align="left" bgcolor="#BCBDBD">
+        <font size="2" face="MS Sans Serif,Geneva,Arial"><font face="MS Sans Serif,Geneva,Arial" size="2"><a href="http://www.gif.com/gif.com/index.php">Home</a> > <a href="http://www.gif.com/gif.com/showgallery.php?cat=147&amp;thumb=1">Clipart</a> > <a href="http://www.gif.com/gif.com/showgallery.php?cat=194&amp;thumb=1">Education</a> </font></font></td>
+        <td bgcolor="#BCBDBD" valign="middle" align="right">
+        <font size="2" face="MS Sans Serif,Geneva,Arial"><font size="2" face="MS Sans Serif,Geneva,Arial"><a href="http://www.gif.com/gif.com/showphoto.php?photo=16775&amp;papass=&amp;sort=1&amp;size=big&amp;thecat=194"><img border="0" src="http://static.graphics.com/photopost/previmg.gif" alt="Previous image in category" /></a></font>&nbsp;<a href="http://www.gif.com/gif.com/slideshow.php?photo=16773&amp;sort=1&amp;thecat=194"><img border="0" src="http://static.graphics.com/photopost/slideshow.gif" alt="Start a slideshow of images" /></a>&nbsp;<font size="2" face="MS Sans Serif,Geneva,Arial"><a href="http://www.gif.com/gif.com/showphoto.php?photo=16773&amp;papass=&amp;sort=1&amp;size=big&amp;thecat=194"><img border="0" src="http://static.graphics.com/photopost/nextimg.gif" alt="Next image in category" /></a></font></font>
+        </td></tr></table></td></tr><!--PhotoPost, Copyright All Enthusiast,Inc.--><tr><td bgcolor="#FFFFFF" valign="top" align="center"><br /><a href="http://www.gif.com/gif.com/showphoto.php?photo=16774&amp;papass=&amp;sort=1&amp;thecat=194">
+                                <img width="640" height="480" src="http://static.graphics.com/data/194/1books2.jpg" border="0" alt="books2" /></a><br />
+        <font size="2" face="MS Sans Serif,Geneva,Arial" color="#000000"><b>books2</b></font><br /><center><font size="1" face="MS Sans Serif,Geneva,Arial">Click on image to view smaller image</font></center><br />
+            <table cellpadding="0" cellspacing="0" border="0" width="96%">
+            <tr><td bgcolor="#E6E6E6">
+            <table cellpadding="0" cellspacing="1" border="0" width="100%"><tr><td><div align="left"><table width="100%" cellpadding="2" cellspacing="1" align="left"><!-- <tr>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Poster:</font></td>
+            <td bgcolor="#FFFFFF"><font size="2" color="#000000" face="MS Sans Serif,Geneva,Arial">
+            <a href="http://www.gif.com/gif.com/member.php?ppaction=profile&amp;uid=1"><b>Webmaster</b></a>
+            <font size="1">(<a href="http://www.gif.com/gif.com/showgallery.php?thumb=1&amp;stype=2&amp;si=Webmaster&amp;cat=500&amp;sort=1&amp;ppuser=1">see all of this user's photos</a>)</font></font></td>
+            </tr> --><tr>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Views:</font></td>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">20614</font></td>
+            </tr><tr><td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Date:</font></td>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Thu Mar 13, 2003</font></td>
+            </tr><tr>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Filesize:</font></td>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial"><a href="http://www.gif.com/gif.com/showphoto.php?photo=16774&amp;papass=&amp;sort=1&amp;thecat=194">31kb</a>, <a
+                href="http://www.gif.com/gif.com/showphoto.php?photo=16774&amp;size=big&amp;papass=&amp;sort=1&amp;thecat=194">34kb</a></font></td>
+            </tr><tr>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Dimensions:</font></td>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">640 x 480</font></td>
+            </tr><tr>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Keywords:</font></td>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial"><a href="http://www.gif.com/gif.com/showgallery.php?cat=500&amp;stype=1&amp;thumb=1&amp;si=books2">books2</a> </font></td>
+            </tr>
+            <tr><td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial">Description:</font></td>
+            <td bgcolor="#FFFFFF"><font size="1" color="#000000" face="MS Sans Serif,Geneva,Arial"></font></td>
+            </tr></table></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table><Center><font size="1" face="verdana">Powered by: <A target="_blank" href="http://www.photopost.com">PhotoPost</a> PHP 3.2.1 <Br>Copyright 2002 All Enthusiast, Inc.</font></center>
+<br></td>
+<td width="5" background="http://static.graphics.com/gif.com/right.gif"><img src="http://static.graphics.com/clear.gif" width="5" height="1" border="0"></td>
+</tr>
+</table>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="23" bgcolor="#EAF4DE"><img src="http://static.graphics.com/gif.com/menu2_left.gif" width="2" height="23" border="0"></td>
+<td background="http://static.graphics.com/gif.com/menu2_bg.gif" height="23" width="100%" align="center" nowrap bgcolor="#EAF4DE"><span class="small">
+
+<a href="http://www.photos.com/slide/010_01" style="text-decoration: none" rel="nofollow">Photos.com</a>&nbsp;:&nbsp;<a href="http://www.graphics.com/" style="text-decoration: none">Graphics.com</a>&nbsp;:&nbsp;<a href="/fonts.php" style="text-decoration: none">Fonts</a>&nbsp;:&nbsp;<a href="/links.php" style="text-decoration: none">Links</a>&nbsp;:&nbsp;<a href="/colorchooser.php" style="text-decoration: none">Color Chooser</a>&nbsp;:&nbsp;<a href="/software.php" style="text-decoration: none">Software</a>&nbsp;:&nbsp;<a href="/templates.php" style="text-decoration: none">Templates</a>&nbsp;:&nbsp;<a href="/terms.php" style="text-decoration: none">Terms Of Use</a>&nbsp;:&nbsp;<a href="/faq.php" style="text-decoration: none">FAQ</a>
+
+</span></td>
+<td height="23" bgcolor="#EAF4DE"><img src="http://static.graphics.com/gif.com/menu2_right.gif" width="2" height="23" border="0"></td>
+</tr>
+</table><br>
+<style type="text/css">
+  a.red, .red, a.red:visited {color:#CC0000;font-family:Arial,Hevetica,Geneva,Sans Serif;font-size:12px;text-decoration:none;font-weight:bold;}
+  a.red:Hover {text-decoration:underline;}
+  a.black, a.black:visited {color:#000000;font-family:Arial,Hevetica,Geneva,Sans Serif;font-size:11px;text-decoration:none;font-weight:bold;}
+  a.black:Hover {text-decoration:underline;}
+</style>
+
+<center>
+<p>
+<table cellspacing=0 cellpadding=20>
+  <tr>
+    <td style="border-style:solid; border-width:1px; border-color:#000000;" align="center" bgcolor="#FFFFFF">
+
+<a href="http://www.jupiterimages.com" class="red">Professional Stock Images and Photos from Jupiterimages</a>
+<p><a href="http://www.comstock.com" class="black">Premium stock photography at <u>Comstock Images</u></a><br>
+<a href="http://www.photos.com" class="black">Stock photos by subscription at <u>Photos.com</u></a><br>
+<a href="http://www.clipart.com" class="black">Royalty-free clipart at <u>Clipart.com</u></a>
+<p><font class="red">Other Jupiterimages Offerings</font>
+<p>
+<table cellspacing=0 cellpadding=0>
+  <tr>
+    <td valign=top>
+      <a href="http://www.comstock1700k.com" class="black">Comstock 1700k</a><br>
+      <a href="http://www.goodshoot.com" class="black">Goodshoot</a><br>
+      <a href="http://www.creatas.com" class="black">Creatas Images</a><br>
+      <a href="http://www.picturequest.com" class="black">PictureQuest</a><br>
+      <a href="http://www.brandxpictures.com" class="black">Brand X Pictures</a><br>
+      <a href="http://www.bananastock.com" class="black">BananaStock</a><br>
+      <a href="http://www.stockxpert.com" class="black">Stockxpert</a><br>
+    </td>
+    <td width=30>&nbsp;</td>
+    <td valign="top">
+      <a href="http://www.jiunlimited.com" class="black">Jupiterimages Unlimited<a><br>
+      <a href="http://www.foodpix.com" class="black">FoodPix</a><br>
+      <a href="http://www.botanica.com" class="black">Botanica</a><br>
+      <a href="http://www.nonstock.com" class="black">Nonstock</a><br>
+      <a href="http://www.thinkstock.com" class="black">Thinkstock Images</a><br>
+      <a href="http://www.thinkstockfootage.com" class="black">Thinkstock Footage</a><br>
+      <a href="http://www.bigshotmedia.com" class="black">Bigshot Media</a>
+    </td>
+    <td width=30>&nbsp;</td>
+    <td valign="top">
+      <a href="http://www.ablestock.com" class="black">AbleStock.com</a><br>
+      <a href="http://www.itstockfree.com" class="black">IT Stock Free</a><br>
+      <a href="http://www.liquidlibrary.com" class="black">liquidlibrary</a><br>
+      <a href="http://www.photoobjects.net" class="black">PhotoObjects.net</a><br>
+      <a href="http://www.animationfactory.com" class="black">Animation Factory</a><br>
+      <a href="http://www.librededroits.com" class="black">PR Direct</a><br>
+      <a href="http://www.bbm.net" class="black">BBM.net</a>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+<font style="font: 11px/14px verdana, arial, helvetica;">
+<p><b>JupiterWeb networks:</b>
+</font>
+<p>
+<table bgcolor="#FFFFFF"><tr><td align="center">&nbsp;&nbsp;
+<a href="http://www.internet.com" class="foot" target="_top"><img src="/icom_includes/footers/icom_foot.gif" alt="internet.com" width="97" height="15" hspace="0" border="0" align="absmiddle"></a>
+  <img src="/icom_includes/footers/ruledivide_foot.gif" alt="" width="1" height="25" hspace="10" border="0" align="absmiddle">
+<a href="http://www.earthweb.com" target="_top"><img src="/icom_includes/footers/earthweb_foot2.gif" alt="earthweb.com" width="93" height="12" hspace="5" border="0" align="absmiddle"></a>
+  <img src="/icom_includes/footers/ruledivide_foot.gif" alt="" width="1" height="25" hspace="10" border="0" align="absmiddle">
+<a href="http://www.devx.com" target="_top"><img src="/icom_includes/footers/devx_foot2.gif" alt="Devx.com" width="35" height="30" hspace="0" border="0" align="absmiddle"></a>
+  <img src="/icom_includes/footers/ruledivide_foot.gif" alt="" width="1" height="25" hspace="10" border="0" align="absmiddle">
+<a href="http://www.graphics.com" target="_top"><img src="/icom_includes/footers/grcom_foot.gif" alt="Graphics.com" width="97" height="18" hspace="0" border="0" align="absmiddle"></a>
+&nbsp;&nbsp;</td></tr></table>
+</center>
+<font class="small">
+<p>&copy; 2006 <a href="http://www.jupiterimages.com/">Jupiterimages Corporation</a>.
+</font>
+<br><br><!------ OAS AD '468x60-2' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('468x60-2');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!468x60-2" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/arttoday/graphics/www.gif.com@120x60-1,336x280,468x60-1,468x60-2,cp1,cp10,cp11,cp12,cp13,cp14,cp2,cp3,cp4,cp5,cp6,cp7,cp8,cp9!468x60-2" border=0>
+</A> 
+</NOSCRIPT>
+<!------ OAS AD '468x60-2' end ------>
+<br><br>
+</div>
+</body>
+</html>
+
+</body></html>

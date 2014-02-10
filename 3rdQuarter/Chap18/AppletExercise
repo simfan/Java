@@ -1,0 +1,9 @@
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class AppletExercise extends JApplet implements ActionListener
+{
+	private JComboBox genreBox, dateBox, movieBox, timeBox;
+	private JLabel genreList, dateList, movieList, timeList;
+	private JTextArea results

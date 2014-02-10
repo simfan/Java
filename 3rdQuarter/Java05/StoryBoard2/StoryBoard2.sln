@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StoryBoard2", "StoryBoard2.vbproj", "{042045EC-9B69-47C5-BDA6-985E75F6F251}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{042045EC-9B69-47C5-BDA6-985E75F6F251}.Debug.ActiveCfg = Debug|.NET
+		{042045EC-9B69-47C5-BDA6-985E75F6F251}.Debug.Build.0 = Debug|.NET
+		{042045EC-9B69-47C5-BDA6-985E75F6F251}.Release.ActiveCfg = Release|.NET
+		{042045EC-9B69-47C5-BDA6-985E75F6F251}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
